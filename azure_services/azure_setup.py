@@ -6,7 +6,7 @@ from groq import Groq
 logging.basicConfig(level=logging.INFO)
 
 MODEL_NAME = "llama-3.2-3b-preview"
-MIXTRAL_API_KEY = "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"  # Replace with your actual API key
+MIXTRAL_API_KEY = " your API key"  # Replace with your actual API key
 
 client = Groq(api_key=MIXTRAL_API_KEY)
 
