@@ -1,5 +1,4 @@
-# File Automator
- # Document Assistant
+# Document Assistant
 
 The **Document Assistant** is an innovative application designed to streamline document management and processing. By integrating a user-friendly interface, efficient data storage, and advanced text processing capabilities, this application enables users to effortlessly handle PDF and DOCX files for various tasks, including classification, summarization, translation, and OCR enhancement.
 
