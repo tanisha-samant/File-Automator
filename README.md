@@ -56,15 +56,14 @@ To set up the project locally, follow these steps:
 3. The application will automatically extract the text, classify the document, and provide options for summarization, translation, and OCR enhancement.
 4. View the results directly in the interface and download processed documents as needed.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-##Contributors
+## Contributors
 
 -Tanisha Samant -Rithika Malve
 
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
